@@ -37,7 +37,7 @@ Includes genomics, pipelines, and applied AI in biology.
 ---
 
 ## 📫 Connect
-- 💼 [LinkedIn]([https://www.linkedin.com/in/farouksaaidia](https://www.linkedin.com/in/farouk-saaidia/))  
+- 💼 [LinkedIn] https://www.linkedin.com/in/farouk-saaidia/)
 - ✉️ Email: farouk.saaidia.26@gmail.com  
 
 ---
